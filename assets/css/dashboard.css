@@ -1,0 +1,12 @@
+.fake-button{
+    width: 100%;
+}
+.no-acepted{
+    color: #dc3545;
+}
+.in-process{
+    color: #0062cc;
+}
+.acepted{
+    color: #1e7e34;
+}
